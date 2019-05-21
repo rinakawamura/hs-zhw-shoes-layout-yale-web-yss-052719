@@ -47,3 +47,7 @@
 .first {
   margin-left: 0%;
 }
+
+.details [class *= "col-"] {
+  background: #fff;
+}
