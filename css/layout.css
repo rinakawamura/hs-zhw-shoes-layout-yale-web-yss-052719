@@ -32,12 +32,14 @@
 }
 
 .col-2 {
+  position: absolute;
   float: left;
   width: 66%;
   background: #fff;
 }
 
 .col-3 {
+  position: absolute;
   background: #fff;
 }
 
